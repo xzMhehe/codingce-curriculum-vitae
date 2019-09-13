@@ -26,5 +26,5 @@
 - [简历 | 闵聪 - Cong Min](http://resume.congm.in/)
 > Fork 或借鉴请注明出处： [@Cong Min](https://congm.in)
 
-![JPG 版简历](./resume.jpg)
+![JPG 版简历]()
 ./resume.jpg
