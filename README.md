@@ -7,8 +7,8 @@
 
 ## PDF 版
 
-[点我查看](./resume.pdf)
-
+[点我查看]()
+./resume.pdf
 ## 简历使用方式
 
 前提: 已安装`nodejs` `npm`
