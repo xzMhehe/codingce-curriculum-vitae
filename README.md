@@ -1,7 +1,7 @@
 
 ## 简历
 
-* https://r.dmego.me
+* https://r.codingce.com.cn
 
 
 
